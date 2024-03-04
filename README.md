@@ -1,4 +1,4 @@
-# Dependência excessiva de redes sociais /  Isolamento social exacerbado pela dependência excessiva da tecnologia / Dependência excessiva de tecnologia na educação primária
+# Dependência excessiva de redes sociais 
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Mentoring II

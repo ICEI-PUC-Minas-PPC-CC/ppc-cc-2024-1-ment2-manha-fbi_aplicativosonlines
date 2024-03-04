@@ -1,19 +1,21 @@
-# TÍTULO DO PROJETO
+# Dependência excessiva de redes sociais /  Isolamento social exacerbado pela dependência excessiva da tecnologia / Dependência excessiva de tecnologia na educação primária
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Mentoring II
+`2024 - Semestre 2`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
-
+- Alice Miranda
+- Camila Sanches
+- Martha Evangelista
+- Luiz Octavio
+- Octavio Alves
+  
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
+- Udo Fritzke Junior
 
 # Documentação
 

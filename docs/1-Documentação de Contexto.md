@@ -1,6 +1,6 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O avanço da tecnologia trouxe consigo uma crescente dependência das redes sociais e dispositivos eletrônicos, que afetam profundamente diversos aspectos da vida contemporânea. Este projeto visa explorar os impactos da dependência excessiva de redes sociais e tecnologia, particularmente no contexto do isolamento social e na educação primária. Nosso objetivo é compreender os efeitos negativos dessa dependência, como o isolamento social exacerbado e os desafios enfrentados na educação primária devido ao uso descontrolado de tecnologia. Por meio dessa pesquisa, buscamos identificar estratégias para promover um equilíbrio saudável no uso da tecnologia, garantindo um desenvolvimento cognitivo, social e emocional adequado em todas as faixas etárias.
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
@@ -14,9 +14,15 @@ O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, qu
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+Este projeto buscará coletar e analisar dados relevantes sobre o impacto da dependência de tecnologia na saúde mental e no desenvolvimento educacional. Por meio de pesquisa qualitativa e quantitativa, serão identificados padrões de uso de tecnologia e seus efeitos associados, bem como estratégias educacionais eficazes para mitigar esses problemas.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Objetivos Específicos:
+
+Analisar o impacto da dependência de tecnologia na saúde mental.
+
+Investigar o uso de tecnologia na educação primária e propor estratégias educacionais para promover um uso equilibrado e saudável.
+
+Esses objetivos visam obter uma compreensão mais profunda dos problemas relacionados à dependência de tecnologia e desenvolver abordagens práticas para lidar com essas questões de maneira eficaz.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)

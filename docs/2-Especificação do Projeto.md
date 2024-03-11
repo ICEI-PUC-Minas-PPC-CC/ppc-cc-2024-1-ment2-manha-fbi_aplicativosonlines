@@ -6,14 +6,16 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-Exemplo:
 
-|**Camila Fiães**|           |                             | 
+
+|**1 - Luis Henrique**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
-
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/153782360/f928164d-0d7a-45b7-b495-ad63c26bd022" width="200" height="200"/>|**Idade:** 20 anos. **Naturalidade:** São Paulo - São Paulo. **Ocupação:** Estudante.       |**Atribuições:** Estudante do curso de direito. 
+|**Motivações:** Deseja tratar o vício das redes sociais para conseguir finalizar o curso de direito.  |**Frustações:** Baixo desempenho na faculdade, dificuldade de se relacionar com pessoas, reflexos do vício pela internet que desenvolveu desde os 15 anos vivendo no mundo virtual.   |**Hobbies, história:** Almeja com o tratamento ter controle do uso das redes sociais e focar a maior parte do seu tempo nos  estudos para garantir sua carreira profissional.
+|**2 - Aline Siva**|              |                             | 
+||           |                             | 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/153782360/975b599d-9561-42d6-93d0-b78747783455" width="200" height="200"/>|**Idade:** 19 anos. **Naturalidade:** Curitiba - Paraná. **Ocupação:** Influencer Digital.       |**Atribuições:** Criadora de conteúdos para o público infantil. 
+|**Motivações:** Se blindar de comentários maldosos de haters na internet, para evitar o cancelamento em suas redes.  |**Frustações:** Ter sua vida particular exposta a todo momento e não saber lidar com as cobranças das pessoas na internet, o que afeta a sua saúde mental.   |**Hobbies, história:** Almeja trabalhar sua parte emocional com acompanhamento profissional, e ensinar a lidar com os comentários e o cancelamento nas suas redes sociais.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
@@ -31,12 +33,12 @@ Para selecionar as imagens de suas personas, utilize o site: https://this-person
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-Exemplo:
+
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Luis Henrique | Tratar vício das redes sociais| Finalizar a faculdade de direito. |
+|Aline Siva | Tratar a saúde mental | Saber lidar com comentários e cancelamento. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 

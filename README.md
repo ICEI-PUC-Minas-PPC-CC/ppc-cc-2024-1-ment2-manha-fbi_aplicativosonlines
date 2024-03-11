@@ -11,6 +11,7 @@
 - Martha Evangelista
 - Luiz Octavio
 - Octavio Alves
+- Davi Zanatta
   
 ## Professor
 

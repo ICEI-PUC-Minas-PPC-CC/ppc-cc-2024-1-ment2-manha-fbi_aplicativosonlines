@@ -3,14 +3,13 @@
 O avanço da tecnologia trouxe consigo uma crescente dependência das redes sociais e dispositivos eletrônicos, que afetam profundamente diversos aspectos da vida contemporânea. Este projeto visa explorar os impactos da dependência excessiva de redes sociais e tecnologia, particularmente no contexto do isolamento social e na educação primária. Nosso objetivo é compreender os efeitos negativos dessa dependência, como o isolamento social exacerbado e os desafios enfrentados na educação primária devido ao uso descontrolado de tecnologia. Por meio dessa pesquisa, buscamos identificar estratégias para promover um equilíbrio saudável no uso da tecnologia, garantindo um desenvolvimento cognitivo, social e emocional adequado em todas as faixas etárias.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
+Nosso objetivo é abordar uma variedade de desafios que impactam profundamente diferentes aspectos da vida moderna. Estamos cientes dos problemas que afetam a saúde mental, desde os crescentes níveis de ansiedade e depressão até o estresse do dia a dia. Além disso, reconhecemos as dificuldades que as crianças enfrentam na educação primária, incluindo obstáculos que podem impedir seu progresso educacional.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Outra área de preocupação é a falta de equilíbrio na vida digital, onde a dependência excessiva da tecnologia afeta negativamente a qualidade de vida e o bem-estar geral. Paralelamente, estamos atentos aos problemas de saúde física decorrentes do estilo de vida sedentário e da má postura associada ao uso prolongado de dispositivos eletrônicos.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Além disso, reconhecemos as dificuldades de comunicação interpessoal que surgem da dependência crescente da tecnologia, bem como a perda de produtividade que resulta de distrações constantes e da falta de foco. Em relação à segurança online, estamos cientes dos riscos que enfrentamos, incluindo cyberbullying, roubo de identidade e exposição a conteúdo inapropriado.
+
+Não podemos ignorar o impacto que a tecnologia tem nas relações familiares, onde a falta de tempo de qualidade e problemas de comunicação podem surgir. Por fim, estamos preocupados com a desconexão crescente com a natureza e seus efeitos adversos na saúde física e emocional. Esses são os problemas que estamos comprometidos em abordar de forma abrangente e proativa.
 
 ## Objetivos
 
@@ -23,9 +22,6 @@ Analisar o impacto da dependência de tecnologia na saúde mental.
 Investigar o uso de tecnologia na educação primária e propor estratégias educacionais para promover um uso equilibrado e saudável.
 
 Esses objetivos visam obter uma compreensão mais profunda dos problemas relacionados à dependência de tecnologia e desenvolver abordagens práticas para lidar com essas questões de maneira eficaz.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 

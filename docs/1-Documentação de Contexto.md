@@ -34,12 +34,12 @@ O grupo de trabalho pode também fazer uso de questionários, entrevistas e dado
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Os potenciais usuários ou beneficiários podem incluir uma variedade de perfis, como por exemplo, Crianças, Jovens, Pais de família, Profissionais da saúde mental. Dito iss, vou detalhar um pouco mais do porque esses perfis são o público alvo do tema. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
+Crianças e Jovens estão entre os grupos mais vulneráveis a essa dependência, pois estão em fases críticas de desenvolvimento, moldando suas identidades e valores. Com o alto tempo nas redes sociais, eles enfrentam riscos de desenvolver uma dependência prejudicial, sem as habilidades emocionais e de autorregulação 100% desenvolvidas para lidar com os desafios que surgem.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Os adultos também não estão imunes aos efeitos negativos das redes sociais, frequentemente buscando-as como uma forma de escapismo do estresse da vida cotidiana. No entanto, esse uso excessivo pode resultar em consequências negativas para relacionamentos, desempenho no trabalho e bem-estar geral.
+
+Os pais desempenham um papel crucial na prevenção e no apoio aos filhos que enfrentam problemas de dependência de redes sociais. Recursos e orientações são essenciais para ajudá-los a entender melhor a dependência de redes sociais e a apoiar seus filhos na adoção de hábitos saudáveis de uso da tecnologia.
+
+Por fim, os profissionais de saúde mental desempenham um papel fundamental na identificação, avaliação e tratamento em todas as faixas etárias. Eles são procurados por pessoas que enfrentam os efeitos negativos do uso excessivo de redes sociais, e precisam estar atualizados sobre as últimas pesquisas e abordagens de tratamento relacionadas a esse problema.

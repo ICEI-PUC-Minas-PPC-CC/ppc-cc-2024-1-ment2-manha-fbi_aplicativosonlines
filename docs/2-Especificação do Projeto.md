@@ -25,6 +25,6 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Luis Henrique | Tratar vício das redes sociais| Finalizar a faculdade de direito. |
+|Luis Henrique | ser objetivo na internet| Finalizar a faculdade de direito. |
 |Aline Siva | Tratar a saúde mental | Saber lidar com comentários e cancelamento. |
 

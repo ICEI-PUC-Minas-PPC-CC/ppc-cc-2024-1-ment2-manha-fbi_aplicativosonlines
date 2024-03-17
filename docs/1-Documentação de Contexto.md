@@ -17,9 +17,9 @@ Este projeto buscará coletar e analisar dados relevantes sobre o impacto da dep
 
 Objetivos Específicos:
 
-Analisar o impacto da dependência de tecnologia na saúde mental.
+1.Analisar o impacto da dependência de tecnologia na saúde mental.
 
-Investigar o uso de tecnologia na educação primária e propor estratégias educacionais para promover um uso equilibrado e saudável.
+2.Investigar o uso de tecnologia na educação primária e propor estratégias educacionais para promover um uso equilibrado e saudável.
 
 Esses objetivos visam obter uma compreensão mais profunda dos problemas relacionados à dependência de tecnologia e desenvolver abordagens práticas para lidar com essas questões de maneira eficaz.
 

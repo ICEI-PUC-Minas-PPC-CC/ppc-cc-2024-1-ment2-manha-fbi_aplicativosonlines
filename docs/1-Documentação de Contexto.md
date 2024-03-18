@@ -25,12 +25,11 @@ Esses objetivos visam obter uma compreensão mais profunda dos problemas relacio
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+Este tema é crucial devido aos impactos profundos da dependência excessiva de tecnologia, a importância reside na necessidade de compreender e abordar essas questões para promover o bem-estar psicológico, desenvolvimento humano saudável e uma sociedade equilibrada. Escolhemos este objetivo específico devido ao seu impacto significativo na saúde mental, no bem-estar emocional e no funcionamento social das pessoas.
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+Para quantificar o problema, podemos recorrer a diversas fontes de dados e pesquisas. Segundo um estudo realizado pela Royal Society for Public Health (RSPH) do Reino Unido em 2017, as redes sociais, como Instagram, Snapchat, Facebook e Twitter, foram classificadas como as plataformas mais prejudiciais para a saúde mental dos jovens, contribuindo para a ansiedade, depressão, isolamento e baixa autoestima (RSPH, 2017).
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Além disso, de acordo com a ComScore (empresa de análise de dados na internet), mais de 170 milhões de brasileiros participam regulamente das redes, quase 80% da população. Entre 2020 e 2022, houve um aumento de 31% do tempo médio que os brasileiros passam nas redes. A média já chega a 46 horas mensais. (Agência Senado, 2023).
 
 ## Público-Alvo
 

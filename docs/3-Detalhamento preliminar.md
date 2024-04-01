@@ -1,6 +1,6 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
-Neste segmento nosso grupo focou no objetivo de desenvolvimento sustentável de número 3, Saúde e Bem estar, com foco no mal que o vício nas redes socias e as pressões/cobranças que elas podem gerar em uma pessoa de diversas formas como na autoestima, estudos e trabalhos devido à exposição radical da vida cotidiana e comentários gratuitos pejorativos de outros usuários, além da clara distração que causada por elas que atrasam e atrapalham o foco em tópicos importantes como na faculdade e/ou trabalho. 
+Neste segmento nosso grupo focou no objetivo de desenvolvimento sustentável de número 3, Saúde e Bem Estar, com foco no mal que o vício nas redes socias e as pressões/cobranças que elas podem gerar em uma pessoa de diversas formas como na autoestima, estudos e trabalhos devido à exposição radical da vida cotidiana e comentários gratuitos pejorativos de outros usuários, além da clara distração que causada por elas que atrasam e atrapalham o foco em tópicos importantes como na faculdade e/ou trabalho. 
 
 
 # 2) Detalhamento preliminar

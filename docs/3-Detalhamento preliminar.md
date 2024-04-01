@@ -1,14 +1,19 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
-  Neste segmento nosso grupo focou no objetivo de desenvolvimento sustentável de número 3, Saúde e Bem Estar, com foco em combater o mal à saúde mental que o vício nas redes socias e as pressões/cobranças que elas podem gerar em uma pessoa de diversas formas como na autoestima, estudos e trabalhos devido à exposição radical da vida cotidiana e comentários gratuitos pejorativos de outros usuários, além da clara distração que causada por elas que atrasam e atrapalham o foco em tópicos importantes como na faculdade e/ou trabalho. 
-  
-  Também escolhemos o tema 8, Trabalho decente e crescimento econômico. A dependência excessiva das redes sociais pode afetar negativamente a produtividade dos trabalhadores, reduzindo seu tempo e atenção dedicados às tarefas laborais. Isso pode levar a um desempenho inferior no trabalho e, consequentemente, a uma redução na eficiência e no crescimento econômico. Além disso, Para as empresas, a dependência excessiva das redes sociais entre os funcionários pode resultar em uma diminuição da eficiência e da competitividade. Isso pode impactar negativamente o crescimento econômico, especialmente em setores onde a produtividade e a inovação são essenciais para o sucesso empresarial.
+Os Objetivos de Desenvolvimento Sustentável (ODS) constituem uma plataforma global estabelecida pelas Nações Unidas, visando enfrentar os desafios socioeconômicos e ambientais até 2030. Esses objetivos são interligados e abrangem uma variedade de áreas, desde a erradicação da pobreza até a preservação do meio ambiente.
 
+Este projeto visa conscientizar sobre os impactos da dependência excessiva de redes sociais em relação a três áreas-chave dos ODS: Saúde e Bem-Estar (ODS 3), Educação de Qualidade (ODS 4) e Trabalho Decente e Crescimento Econômico (ODS 8).
+
+- Saúde e Bem-Estar (ODS 3):
+O uso excessivo das redes sociais tem sido associado a problemas de saúde mental, como ansiedade, depressão e isolamento social. A busca incessante por validação online, comparação constante com os outros e exposição a conteúdos prejudiciais podem afetar negativamente o bem-estar das pessoas. Portanto, promover o equilíbrio no uso das redes sociais e conscientizar sobre seus impactos na saúde mental é fundamental para alcançar esse objetivo.
+
+- Educação de Qualidade (ODS 4):
+  
+- Trabalho Decente e Crescimento Econômico (ODS 8): A dependência excessiva das redes sociais pode impactar negativamente a produtividade dos trabalhadores, reduzindo o tempo e a atenção dedicados às suas tarefas laborais. Isso pode resultar em desempenho inferior no trabalho e, consequentemente, em uma redução da eficiência e do crescimento econômico. Além disso, para as empresas, a dependência excessiva das redes sociais entre os funcionários pode levar a uma diminuição da eficiência e da competitividade. Isso pode afetar negativamente o crescimento econômico, especialmente em setores nos quais a produtividade e a inovação são essenciais para o sucesso empresarial.
 
 # 2) Detalhamento preliminar
 
-  Foi decidido que iremos desenvolver um site/blog com o intuito de auxiliar as pessoas a ter um uso consciente das redes sociais de maneira que não interfira em outras áreas da vida do usuário, além de ensinar a lidar/se preparar pras cobranças que é gerada pela comparação com o que outras pessoas dizem/postam.
-  Sendo assim, iremos apresentar de forma presencial o site para alunos de alguma escola e fazer uma gincana com eles para que possam se interessar no assunto e serem auxiliados da melhor maneira
+ Foi decidido que desenvolveremos um site/blog com o intuito de auxiliar as pessoas a fazerem um uso consciente das redes sociais, de modo a não interferir em outras áreas de suas vidas. Além disso, o objetivo é ensinar como lidar e se preparar para as pressões geradas pela comparação com o que outras pessoas dizem/postam. Sendo assim, apresentaremos o site presencialmente aos alunos de uma escola e organizaremos uma gincana com eles para despertar interesse no assunto e proporcionar auxílio da melhor maneira possível.
 
 
 ## Projeto de Interface

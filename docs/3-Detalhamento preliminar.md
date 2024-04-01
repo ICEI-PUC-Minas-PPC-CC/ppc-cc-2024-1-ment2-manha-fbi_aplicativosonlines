@@ -19,11 +19,8 @@ Caso seu trabalho demanda outro tipo de detalhamento preliminar, os artefatos a 
 
 ## Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
-Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+  O site/blog ira apresentar tópicos detalhados para ajudar os usuários de maneira mais específica, como por exemplo, um tópico específico para quem tem problemas com a falta de foco devido o uso excessivo das redes, um tópico para ajudar com as cobranças e os padrões que a internet impõe nas pessoas.
+  Dessa forma, será possível auxiliar pessoas como Luiz Henrique e Aline Silva com suas frustrações em relação ao uso das redes sociais, além de outros usuários que sofrem com os mesmos ou até outros problemas.
 
 ## User Flow
 ![User Flow (1)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/162996245/2830b4cd-4156-44b8-9f26-acb1cbcf1ec1)
@@ -31,17 +28,10 @@ Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada
 
 ## Cronograma preliminar
 
-Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
-Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
-
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
 |1| Apresentação do site/blog aos estudantes | 20 minutos | 
 |2| Gincana com os alunos   | 30 minutos |
-
-## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
-
-Nesta seção, deverão ser apresentados os registros das reuniões realizadas com representantes do público-alvo, os gráficos/tabelas com os resultados das pesquisas/entrevistas feitos e também, às conclusões que o grupo pode alcançar por meio destes artefatos.
 
 
 

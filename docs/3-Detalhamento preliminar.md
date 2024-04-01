@@ -11,6 +11,8 @@ O uso excessivo das redes sociais tem sido associado a problemas de saúde menta
   
 - Trabalho Decente e Crescimento Econômico (ODS 8): A dependência excessiva das redes sociais pode impactar negativamente a produtividade dos trabalhadores, reduzindo o tempo e a atenção dedicados às suas tarefas laborais. Isso pode resultar em desempenho inferior no trabalho e, consequentemente, em uma redução da eficiência e do crescimento econômico. Além disso, para as empresas, a dependência excessiva das redes sociais entre os funcionários pode levar a uma diminuição da eficiência e da competitividade. Isso pode afetar negativamente o crescimento econômico, especialmente em setores nos quais a produtividade e a inovação são essenciais para o sucesso empresarial.
 
+  Em suma, a dependência excessiva de redes sociais pode impactar negativamente vários aspectos da vida das pessoas, incluindo saúde, educação e emprego. Portanto, integrar estratégias para lidar com esse desafio dentro dos esforços para alcançar os Objetivos de Desenvolvimento Sustentável é essencial para garantir um futuro mais equitativo e sustentável para todos.
+
 # 2) Detalhamento preliminar
 
  Foi decidido que desenvolveremos um site/blog com o intuito de auxiliar as pessoas a fazerem um uso consciente das redes sociais, de modo a não interferir em outras áreas de suas vidas. Além disso, o objetivo é ensinar como lidar e se preparar para as pressões geradas pela comparação com o que outras pessoas dizem/postam. Sendo assim, apresentaremos o site presencialmente aos alunos de uma escola e organizaremos uma gincana com eles para despertar interesse no assunto e proporcionar auxílio da melhor maneira possível.

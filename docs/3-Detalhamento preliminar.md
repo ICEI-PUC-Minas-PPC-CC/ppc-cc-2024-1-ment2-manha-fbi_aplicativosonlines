@@ -37,8 +37,8 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
+|1| Apresentação do site/blog aos estudantes | 20 minutos | 
+|2| Gincana com os alunos   | 30 minutos |
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
 

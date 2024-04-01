@@ -1,6 +1,7 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
   Neste segmento nosso grupo focou no objetivo de desenvolvimento sustentável de número 3, Saúde e Bem Estar, com foco em combater o mal à saúde mental que o vício nas redes socias e as pressões/cobranças que elas podem gerar em uma pessoa de diversas formas como na autoestima, estudos e trabalhos devido à exposição radical da vida cotidiana e comentários gratuitos pejorativos de outros usuários, além da clara distração que causada por elas que atrasam e atrapalham o foco em tópicos importantes como na faculdade e/ou trabalho. 
+  
   Também escolhemos o tema 8, Trabalho decente e crescimento econômico. A dependência excessiva das redes sociais pode afetar negativamente a produtividade dos trabalhadores, reduzindo seu tempo e atenção dedicados às tarefas laborais. Isso pode levar a um desempenho inferior no trabalho e, consequentemente, a uma redução na eficiência e no crescimento econômico. Além disso, Para as empresas, a dependência excessiva das redes sociais entre os funcionários pode resultar em uma diminuição da eficiência e da competitividade. Isso pode impactar negativamente o crescimento econômico, especialmente em setores onde a produtividade e a inovação são essenciais para o sucesso empresarial.
 
 

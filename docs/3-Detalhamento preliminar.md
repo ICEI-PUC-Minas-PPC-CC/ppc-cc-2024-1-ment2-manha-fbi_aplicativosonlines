@@ -1,9 +1,15 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
-Neste segmento nosso grupo focou no objetivo de desenvolvimento sustentável de número 3, Saúde e Bem Estar, com foco no mal que o vício nas redes socias e as pressões/cobranças que elas podem gerar em uma pessoa de diversas formas como na autoestima, estudos e trabalhos devido à exposição radical da vida cotidiana e comentários gratuitos pejorativos de outros usuários, além da clara distração que causada por elas que atrasam e atrapalham o foco em tópicos importantes como na faculdade e/ou trabalho. 
+  Neste segmento nosso grupo focou no objetivo de desenvolvimento sustentável de número 3, Saúde e Bem Estar, com foco em combater o mal à saúde mental que o vício nas redes socias e as pressões/cobranças que elas podem gerar em uma pessoa de diversas formas como na autoestima, estudos e trabalhos devido à exposição radical da vida cotidiana e comentários gratuitos pejorativos de outros usuários, além da clara distração que causada por elas que atrasam e atrapalham o foco em tópicos importantes como na faculdade e/ou trabalho. 
 
 
 # 2) Detalhamento preliminar
+
+  Foi decidido que iremos desenvolver um site/blog com o intuito de auxiliar as pessoas a ter um uso consciente das redes sociais de maneira que não interfira em outras áreas da vida do usuário, além de ensinar a lidar/se preparar pras cobranças que é gerada pela comparação com o que outras pessoas dizem/postam.
+  Sendo assim, iremos apresentar de forma presencial o site para alunos de alguma escola e fazer uma gincana com eles para que possam se interessar no assunto e serem auxiliados da melhor maneira
+
+
+
 
 Esta seção deverá ser adaptada a proposta do grupo, de forma que:
 a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
@@ -20,15 +26,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## User Flow
+![User Flow (1)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/162996245/2830b4cd-4156-44b8-9f26-acb1cbcf1ec1)
 
-![Exemplo de UserFlow](img/userflow.jpg)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 ## Cronograma preliminar
 

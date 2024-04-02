@@ -23,7 +23,7 @@ Objetivos Específicos:
 
 Esses objetivos visam obter uma compreensão mais profunda dos problemas relacionados à dependência de tecnologia e desenvolver abordagens práticas para lidar com essas questões de maneira eficaz.
 
-## Justificação
+## Justificativa
 
 Este tema é crucial devido aos impactos profundos da dependência excessiva de tecnologia, a importância reside na necessidade de compreender e abordar essas questões para promover o bem-estar psicológico, desenvolvimento humano saudável e uma sociedade equilibrada. Escolhemos este objetivo específico devido ao seu impacto significativo na saúde mental, no bem-estar emocional e no funcionamento social das pessoas.
 

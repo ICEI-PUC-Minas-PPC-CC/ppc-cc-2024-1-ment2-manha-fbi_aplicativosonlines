@@ -31,7 +31,7 @@ Para quantificar o problema, podemos recorrer a diversas fontes de dados e pesqu
 
 Além disso, de acordo com a ComScore (empresa de análise de dados na internet), mais de 170 milhões de brasileiros participam regulamente das redes, quase 80% da população. Entre 2020 e 2022, houve um aumento de 31% do tempo médio que os brasileiros passam nas redes. A média já chega a 46 horas mensais. (Agência Senado, 2023).
 
-Esses dados evidenciam a amplitude e a gravidade do problema da dependência de redes sociais e justificam plenamente a importância de abordá-lo de maneira eficaz. Através de questionários, entrevistas e análise de dados estatísticos, pretendemos entender melhor como as redes sociais afetam indivíduos em diferentes faixas etárias e contextos sociais, para desenvolver estratégias e intervenções eficazes para minimizar seus impactos negativos.
+Esses dados evidenciam a amplitude e a gravidade do problema da dependência de redes sociais e justificam plenamente a importância de abordá-lo de maneira eficaz. Através de questionários, entrevistas e análise de dados estatísticos,  mais de 170 milhões de brasileiros participam regulamente das redes, quase 80% da população. Entre 2020 e 2022, houve  pretendemos entender melhor como as redes sociais afetam indivíduos em diferentes faixas etárias e contextos sociais, para desenvolver estratégias e intervenções eficazes para minimizar seus impactos negativos.
 
 ## Público-Alvo
 

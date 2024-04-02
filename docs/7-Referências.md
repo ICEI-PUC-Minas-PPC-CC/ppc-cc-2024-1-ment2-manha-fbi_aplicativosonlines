@@ -1,17 +1,7 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvolvimento do trabalho.
+[1] Senado Federal. Dados apresentados em audiência da CAS comprovam aumento do vício em celular. Disponível em: https://www12.senado.leg.br/noticias/materias/2023/10/20/dados-apresentados-em-audiencia-da-cas-comprovam-aumento-do-vicio-em-celular. Acesso em: 13 março 2024.
 
-As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
+[2] Royal Society for Public Health (RSPH). Status of Mind. Disponível em: https://www.rsph.org.uk/our-work/campaigns/status-of-mind.html. Acesso em: 17 março 2024.
 
-Exemplos de referências:
-
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
-
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
-
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
 

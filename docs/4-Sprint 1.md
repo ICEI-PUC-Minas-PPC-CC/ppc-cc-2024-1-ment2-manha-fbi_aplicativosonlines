@@ -1,4 +1,4 @@
-##Pesquisa mostra que brasileiros passam 9h por dia ao celular ou em outros aparelhos eletrônicos**
+##Pesquisa mostra que brasileiros passam 9h por dia ao celular ou em outros aparelhos eletrônicos
 
  O uso excessivo de dispositivos eletrônicos, especialmente celulares, tornou-se uma preocupação global. Segundo dados do G1, os brasileiros passam em média nove horas e meia por dia utilizando dispositivos eletrônicos, o que levanta preocupações sobre os efeitos desse comportamento na vida cotidiana. Comparativamente, o tempo gasto nas redes sociais é substancialmente maior do que em outras nações, como o Japão, mesmo sendo este último líder em tecnologia.  
 

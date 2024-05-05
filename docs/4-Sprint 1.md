@@ -25,3 +25,15 @@ Portanto, para combater esse problema, é crucial adotar medidas que promovam um
 **Freedom:** O Freedom é um aplicativo que bloqueia sites e aplicativos específicos por um período determinado. Ele permite que você se concentre em tarefas importantes, evitando distrações online. 
 
 **StayFocusd:** Uma extensão para navegadores de internet como o Google Chrome que permite bloquear sites específicos ou definir limites de tempo para o uso de determinados sites. É útil para evitar procrastinação online.
+
+## Apresentação do Projeto
+-Linha do Tempo
+
+ Nossa apresentação contemplará slides, vídeo e perguntas direcionadas aos alunos.
+ Iniciaremos com slides elucidativos acerca da "Dependência Excessiva nas Redes Sociais", abordando seus aspectos negativos e positivos no cotidiano.
+ Posteriormente, empregaremos o aplicativo "Mentimeter" para formular questionamentos sobre o tema aos alunos, permitindo o envio de respostas anônimas.
+  Na sequência, analisaremos e discutiremos as respostas, fornecendo esclarecimentos adicionais.
+Além disso, ao término da exposição, apresentaremos um vídeo pertinente ao assunto, seguido de uma breve explanação sobre o conteúdo abordado.
+Adicionalmente, exemplificaremos aplicativos que auxiliam os alunos a gerenciar o tempo nas redes sociais, visando a redução do tempo gasto nelas e o aumento da produtividade em outras atividades.
+
+

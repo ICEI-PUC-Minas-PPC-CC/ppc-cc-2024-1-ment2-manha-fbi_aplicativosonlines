@@ -12,7 +12,7 @@ Pesquisas demonstram que o uso intensivo das redes sociais pode resultar em uma 
 
 Portanto, para combater esse problema, é crucial adotar medidas que promovam uma relação mais equilibrada com a tecnologia. Sugere-se desabilitar notificações das redes sociais, controlar o tempo de tela de aplicativos e priorizar atividades offline que promovam interações sociais reais. Estas medidas visam reduzir a procrastinação e promover um uso mais consciente e saudável dos dispositivos eletrônicos. 
 
-**Uso de aplicativos e ferramentas que visibilizam na melhora da organização para uma boa rotina:** 
+## Uso de aplicativos e ferramentas que visibilizam na melhora da organização para uma boa rotina: 
 
 **Forest:** O Forest é um aplicativo que ajuda a controlar o tempo gasto no celular, incentivando o foco e a concentração. Você planta uma semente virtual e ela cresce enquanto você não utiliza o celular. Se você sair do aplicativo para acessar outras funções do dispositivo, a árvore morre. É uma maneira divertida de manter o foco e evitar distrações. 
 

@@ -27,7 +27,7 @@ Portanto, para combater esse problema, é crucial adotar medidas que promovam um
 **StayFocusd:** Uma extensão para navegadores de internet como o Google Chrome que permite bloquear sites específicos ou definir limites de tempo para o uso de determinados sites. É útil para evitar procrastinação online.
 
 ## Apresentação do Projeto
--Linha do Tempo
+- Linha do Tempo
 
  Nossa apresentação contemplará slides, vídeo e perguntas direcionadas aos alunos.
  Iniciaremos com slides elucidativos acerca da "Dependência Excessiva nas Redes Sociais", abordando seus aspectos negativos e positivos no cotidiano.

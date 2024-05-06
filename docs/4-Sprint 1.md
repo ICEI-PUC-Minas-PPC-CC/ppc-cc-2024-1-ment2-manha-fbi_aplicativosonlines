@@ -36,4 +36,13 @@ Portanto, para combater esse problema, é crucial adotar medidas que promovam um
 Além disso, ao término da exposição, apresentaremos um vídeo pertinente ao assunto, seguido de uma breve explanação sobre o conteúdo abordado.
 Adicionalmente, exemplificaremos aplicativos que auxiliam os alunos a gerenciar o tempo nas redes sociais, visando a redução do tempo gasto nelas e o aumento da produtividade em outras atividades.
 
+## Slides
+
+O documento "Dependência Excessiva de Redes Sociais" descreve a dependência nesse contexto como um uso compulsivo e descontrolado das plataformas online, é comparável à dependência química devido à ativação da dopamina no cérebro. Essa condição pode gerar efeitos positivos, como acesso à informação e conexão social, mas também negativos, como isolamento social e redução da produtividade. Para lidar com esses desafios, o material destaca aplicativos de gerenciamento de tempo, como o Freedom, Forest e Screen Time, como recursos úteis. Enfatiza-se a importância da conscientização sobre os impactos negativos e da busca por equilíbrio entre as atividades online e offline para preservar a saúde mental e promover uma cultura digital responsável.
+
+
+
+
+
+
 

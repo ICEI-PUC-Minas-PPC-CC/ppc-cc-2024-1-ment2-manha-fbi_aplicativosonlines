@@ -48,6 +48,8 @@ Perguntas direcionadas aos alunos pra descobrir quais aplicativos são mais usad
 
 Usaremos o mentimeter para que os alunos respondam de forma que seja anônimo e assim as respostas tendem serem mais honesta e realista com a realidade deles.
 
+https://www.mentimeter.com/app/presentation/alxew58gbf11rtsvtwhragtdgq3pqn6q/pptgwtdxdqb5/edit
+
 
 
 

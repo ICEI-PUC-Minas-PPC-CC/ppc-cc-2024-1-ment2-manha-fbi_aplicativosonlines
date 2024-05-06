@@ -43,7 +43,7 @@ O documento "Dependência Excessiva de Redes Sociais" descreve a dependência ne
 ## Mentimeter(Questionário)
 
 Perguntas direcionadas aos alunos pra descobrir quais aplicativos são mais usados, quanto tempo passam usando as redes sociais de modo geral (contando todos os aplicativos), qual a parte do dia que eles mais usam o celular/computador. Os resultados serão úteis pra podermos interagir melhor com o público e ser mais focada nos pontos que forem mostrados nos resultados do questionário.
-
+Usaremos o mentimeter para que os alunos respondam de forma que seja anônimo e assim as respostas tendem serem mais honesta e realista com a realidade deles.
 
 
 

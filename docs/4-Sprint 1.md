@@ -38,7 +38,13 @@ Adicionalmente, exemplificaremos aplicativos que auxiliam os alunos a gerenciar 
 
 ## Slides
 
-O documento "Dependência Excessiva de Redes Sociais" descreve a dependência nesse contexto como um uso compulsivo e descontrolado das plataformas online, é comparável à dependência química devido à ativação da dopamina no cérebro. Essa condição pode gerar efeitos positivos, como acesso à informação e conexão social, mas também negativos, como isolamento social e redução da produtividade. Para lidar com esses desafios, o material destaca aplicativos de gerenciamento de tempo, como o Freedom, Forest e Screen Time, como recursos úteis. Enfatiza-se a importância da conscientização sobre os impactos negativos e da busca por equilíbrio entre as atividades online e offline para preservar a saúde mental e promover uma cultura digital responsável.
+Preparamos uma roda de conversa centrada no tema do uso excessivo de redes sociais por adolescentes. Reconhecemos a importância de abordar esse assunto, já que é praticamente impossível privá-los do acesso à internet e às redes sociais nos dias de hoje. Nosso principal objetivo é orientá-los sobre as melhores práticas para navegar de forma segura e consciente nesse ambiente virtual.
+
+Durante nosso encontro, pretendemos criar um espaço acolhedor onde eles se sintam à vontade para compartilhar suas experiências, dúvidas e preocupações em relação ao uso das redes sociais. Utilizaremos o documento "Dependência Excessiva de Redes Sociais" como base para nossa discussão, destacando os desafios associados ao uso compulsivo e descontrolado dessas plataformas online.
+
+Vamos explorar como o vício em redes sociais pode afetar suas vidas, tanto positiva quanto negativamente. Além disso, apresentaremos ferramentas úteis de gerenciamento de tempo, como o Freedom, Forest e Screen Time, que podem ajudá-los a equilibrar o tempo gasto online e offline.
+
+Enfatizaremos a importância da conscientização sobre os impactos negativos do uso excessivo das redes sociais, como a dependência em dopamina, e da busca por um equilíbrio saudável em suas atividades diárias. Nosso objetivo é capacitá-los a utilizar a internet de forma segura, responsável e consciente, para que possam desfrutar dos benefícios das redes sociais enquanto protegem sua saúde mental e promovem uma cultura digital responsável.
 
 https://www.canva.com/design/DAGEZtyLJW4/KPIIKQPudjB1cLXmHwtEIA/edit?utm_content=DAGEZtyLJW4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 

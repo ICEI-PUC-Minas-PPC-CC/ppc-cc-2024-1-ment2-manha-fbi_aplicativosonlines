@@ -16,3 +16,10 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 ![Captura de tela 2024-06-26 150338](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/161664487/5b4f0409-cf56-4fae-9ab6-0f0ca966c028)
 
 ![Captura de tela 2024-06-26 150541](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/161664487/558c5731-a74f-4ce0-bc00-a7702f7b9929)
+
+### Fotos
+
+![WhatsApp Image 2024-06-21 at 11 33 10](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/161269703/28ffee75-f7d2-4f81-aca6-f0b22354c502)
+![WhatsApp Image 2024-06-21 at 11 33 10 (1)](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/161269703/a660475d-83e8-447e-97a2-c6b16455cd7c)
+![WhatsApp Image 2024-06-21 at 11 33 09](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/161269703/b338ae9a-e770-47d4-9260-a415d13b66ca)
+

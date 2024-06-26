@@ -48,13 +48,13 @@ Enfatizaremos a importância da conscientização sobre os impactos negativos do
 
 https://www.canva.com/design/DAGEZtyLJW4/KPIIKQPudjB1cLXmHwtEIA/edit?utm_content=DAGEZtyLJW4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Mentimeter(Questionário)
+## Kahoot(Questionário)
 
 Perguntas direcionadas aos alunos pra descobrir quais aplicativos são mais usados, quanto tempo passam usando as redes sociais de modo geral (contando todos os aplicativos), qual a parte do dia que eles mais usam o celular/computador. Os resultados serão úteis pra podermos interagir melhor com o público e ser mais focada nos pontos que forem mostrados nos resultados do questionário.
 
-Usaremos o mentimeter para que os alunos respondam de forma que seja anônimo e assim as respostas tendem serem mais honesta e realista com a realidade deles.
+Usaremos o Kahoot para que os alunos respondam de forma que seja anônimo e assim as respostas tendem serem mais honesta e realista com a realidade deles.
 
-https://www.mentimeter.com/app/presentation/alxew58gbf11rtsvtwhragtdgq3pqn6q/pptgwtdxdqb5/edit
+https://create.kahoot.it/share/dependencia-excessiva-de-redes-sociais/ff4bf9df-c06c-46aa-9e06-d9d1d1534004
 
 
 

@@ -10,3 +10,9 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 ![lista presença equipe FBI-Online](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/81312361/05061bb6-5723-4005-8e73-4e0fe797c430)
 
 ## Kahoot
+
+![Captura de tela 2024-06-26 150635](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/161664487/66e82734-4a07-448c-a8d9-ed6c9a8752cc)
+
+![Captura de tela 2024-06-26 150338](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/161664487/5b4f0409-cf56-4fae-9ab6-0f0ca966c028)
+
+![Captura de tela 2024-06-26 150541](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/161664487/558c5731-a74f-4ce0-bc00-a7702f7b9929)

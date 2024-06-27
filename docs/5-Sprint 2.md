@@ -40,6 +40,16 @@ Organização de Tarefas: Distribuir funções entre os membros do nosso grupo f
 
 Timidez ao Apresentar: A ansiedade de falar em público é uma dificuldade que muitos de nós enfrentamos. Mesmo estando bem preparados, a pressão de falar diante dos alunos afetou um pouco nosso desempenho.
 
+## Mudanças
+
+Mudanças que poderiam beneficiar e/ou então tornar mais eficiente o processo estão entre:
+
+Divisão de tarefas: Nosso grupo sofreu com a divisão de tarefas de forma igualitária e que facilitasse o andamento do projeto. Dessa forma, poderíamos ter feito um compartilhamento melhor dos afazeres pra cada integrante e assim, além de mais eficiente, promoveria a evolução rápida e fluída do processo.
+
+Preparação para a apresentação: De maneira geral, nosso grupo é feito de integrantes que sofrem com a timidez. Sendo assim, poderíamos ter divido falas e roteirizado a apresentação pra que assim ficasse à uma maneira suave de se apresentar para todos e que ajudasse a luta com nossa timidez.
+
+Otimização do conteúdo: A priori, foi dificil simplificar os conteúdos e matérias vistas na faculdade para mostrar aos alunos mais novos. Dessa maneira, poderíamos ter feitos conversas para que todos pudessem dar ideia para maneiras que otimizassem o conteúdo e ficasse simples para que qualquer um, mas principalmente o publico alvo (alunos da escola), pudessem ter clareza sobre o que citaríamos ao decorrer de nossa conversa.
+
 ## Impressões do Grupo
 
 Tivemos sucesso na apresentação do projeto, acredito que alcançamos o objetivo inicial, a nossa maior dificuldade havia sido entender o nosso público e encontrar uma maneira eficaz de conscientizá-los. No entanto ao analisar as estatísticas do Kahoot, percebemos que mesmo na faixa etária dos alunos, sendo adolescentes gostando de utilizar e interagir nas redes, os mesmos expressam o interesse em realizar diversos programas e não ficar somente na utilização de dispositivos móveis.

@@ -31,7 +31,7 @@ Portanto, para combater esse problema, é crucial adotar medidas que promovam um
 
  Nossa apresentação contemplará slides, vídeo e perguntas direcionadas aos alunos.
  Iniciaremos com slides elucidativos acerca da "Dependência Excessiva nas Redes Sociais", abordando seus aspectos negativos e positivos no cotidiano.
- Posteriormente, empregaremos o aplicativo "Mentimeter" para formular questionamentos sobre o tema aos alunos, permitindo o envio de respostas anônimas.
+ Posteriormente, empregaremos o aplicativo "Kahoot" para formular questionamentos sobre o tema aos alunos, permitindo o envio de respostas anônimas.
   Na sequência, analisaremos e discutiremos as respostas, fornecendo esclarecimentos adicionais.
 Além disso, ao término da exposição, apresentaremos um vídeo pertinente ao assunto, seguido de uma breve explanação sobre o conteúdo abordado.
 Adicionalmente, exemplificaremos aplicativos que auxiliam os alunos a gerenciar o tempo nas redes sociais, visando a redução do tempo gasto nelas e o aumento da produtividade em outras atividades.

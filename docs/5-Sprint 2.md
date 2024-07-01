@@ -16,6 +16,15 @@ Os alunos mostraram-se bastante interessados e engajados durante toda a apresent
 
 ![WhatsApp Image 2024-06-21 at 11 33 09](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/161269703/b338ae9a-e770-47d4-9260-a415d13b66ca)
 
+![FBI online 8](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/81312361/68b2e179-762d-4ebe-a49f-a041712a3983)
+![FBI online 7](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/81312361/ecfb8dc7-5a43-43c3-8b8e-5442baea09ef)
+![FBI online 6](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/81312361/40731dfc-3884-4c2b-8509-43e1d51c5bda)
+![FBI online 5](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/81312361/2b7a3d5f-04bb-4fe5-a83b-8b417c1ab995)
+![FBI online 4](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/81312361/e0aa2fe7-abb7-4e0c-971b-ff84ef106c41)
+![FBI online 3](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/81312361/40a930f1-7f90-4159-9d48-fbd337dffbea)
+![FBI online 2](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/81312361/c965dc14-89bc-4a5c-a3cd-b0274efd66f6)
+![FBI online 1](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-manha-fbi_aplicativosonlines/assets/81312361/844bd553-75a1-4031-a2fd-7ee4e7f34aef)
+
 
 ## Kahoot
 
